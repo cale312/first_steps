@@ -1,0 +1,79 @@
+body {
+    background: linear-gradient(-45deg, #119, white) no-repeat;
+    background-size: contain;
+}
+h1 {
+    padding-top: 50px;
+    text-align: center;
+    margin: 0px;
+    font-size: 6em;
+    letter-spacing: 0.2em;
+    color: rgba(66, 56, 99, 0.7);
+}
+header img {
+    margin-left: 10px;
+}
+body img {
+    margin: 10px;
+    border-radius: 4%;
+}
+#city {
+    clear: both;
+}
+#city img {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+h2 {
+    color: #222;
+    font-family: impact;
+    letter-spacing: 0.3em;
+}
+#lang h2 {
+    text-align: center;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
+hr {
+    clear: both;
+    visibility: hidden;
+}
+table {
+    text-align: center;
+}
+th {
+    background: rgba(2, 6, 7, 0.5);
+}
+td {
+    background: rgba(6, 9, 9, 0.3);
+}
+#one, #three {
+    clear: both;
+}
+#two {
+    clear: both;
+    float: right;
+    margin-bottom: 10px;
+}
+#history img {
+    margin: 0px 10px 10px 10px;
+}
+#topic {
+    border-width: 0.9px;
+    border-bottom: solid;
+    
+    float: left;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+#two #topic {
+    margin: 0px 10px 0px 0px;
+}
+footer img {
+    border-radius: 100%;
+}
+
+
+
